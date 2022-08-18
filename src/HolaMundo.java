@@ -5,6 +5,7 @@ public class HolaMundo {
         System.out.println("Hello word!");
         System.out.println("Hello word!");
         System.out.println("Hello");
+        System.out.println("Hello 2");
 
         //Comentario de Steven, favor no borrar éste comentario
 
