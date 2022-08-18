@@ -4,7 +4,7 @@ public class HolaMundo {
 
         System.out.println("Hello word!");
 
-        //Comentario de Steven, favor no borrar
+        //Comentario de Steven, favor no borrar éste comentario
 
     }
 }
